@@ -13,7 +13,7 @@ orange-x is a copier/backup/restore utility program written in powershell. Unlik
 
 * Microsoft Speech Synthesis isn't the best, even with training and hasn't improved, and remained so for decades.
 
-* orange-x is only as good as its grammar builder. So feel free to add more keywords and corresponding code of event. 
+* orange-x is only as good as its grammar builder. So feel free to add more keywords and corresponding code of event, to suit your needs.
 
 * Accents affects  speech recognition, to my notice, which explains why some grammar keywords in the program were spelt unconventionally, to accommodate
 most users. you can say instructions while program is listening, for detailed information or better still, read the grammar builder code in the program to see what i mean.
