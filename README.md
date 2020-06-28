@@ -3,7 +3,7 @@ orange-x is a copier/backup/restore utility program written in powershell. Unlik
 
 # *Execution & Observation*
 
-* Before program launch, orange-x scans your computer to check for external storage peripheral before initialization. Program launches when a storage device is detected. 
+* Before program launch, orange-x scans your computer to check for external storage peripheral before initialization. Program launches when an external storage device is detected. 
 
 * If more than 1 storage device is connected to PC, it sees nothing. You are welcome to fix that if you can.
 
