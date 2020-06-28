@@ -3,11 +3,11 @@ orange-x is a copier/backup/restore utility program written in powershell. Unlik
 
 # *Execution & Observation*
 
-* Before program launch, orange-x scans your computer for an external storage peripheral before initialization. Program launches when a storage device is detected. 
+* Before program launch, orange-x scans your computer to check for external storage peripheral before initialization. Program launches when a storage device is detected. 
 
 * If more than 1 storage device is connected to PC, it sees nothing. You are welcome to fix that if you can.
 
-* After initialization, grammar builder loads up before orange-x loops in a continuous listening mode. Say exit to dismiss orange-x
+* After initialization, all keywords (commands) will be added to the grammar builder, which loads up before orange-x loops in a continuous listening mode. Say exit to dismiss orange-x
 
 * Because of susceptibility to noise, program can trigger undesirable commands on its own. I know they are better speech engines like the FreeTTS - A speech synthesizer written entirely in Java and developed at Carnegie Mellon University. Working with the API at the moment
 
