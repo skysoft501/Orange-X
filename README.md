@@ -3,16 +3,17 @@ orange-x is a copier/backup/restore utility program written in powershell. Unlik
 
 *** Room for Improvement
 
-*Before program launch, it scans your computer for an external storage peripheral before initialization. Program launches when a storage device is detected. 
-*If more than 1 storage device is connected to PC, it sees nothing. You are welcome to fix that if you can.
+* Before program launch, it scans your computer for an external storage peripheral before initialization. Program launches when a storage device is detected. 
+
+* If more than 1 storage device is connected to PC, it sees nothing. You are welcome to fix that if you can.
 
 * After initialization, grammar builder loads up before orange-x loops in a continuous listening mode. Say exit to dismiss orange-x
 
-*Because of susceptibility to noise, program can trigger undesirable commands on its own. I know they are better speech engines like the FreeTTS - A speech synthesizer written entirely in Java and developed at Carnegie Mellon University. Working with the API at the moment
+* Because of susceptibility to noise, program can trigger undesirable commands on its own. I know they are better speech engines like the FreeTTS - A speech synthesizer written entirely in Java and developed at Carnegie Mellon University. Working with the API at the moment
 
-*Microsoft Speech Synthesis isn't the best, even with training and hasn't improved, and remained so for decades.
+* Microsoft Speech Synthesis isn't the best, even with training and hasn't improved, and remained so for decades.
 
-*orange-x is only as good as its grammar builder. So feel free to add more keywords and corresponding code of event. 
+* orange-x is only as good as its grammar builder. So feel free to add more keywords and corresponding code of event. 
 
-*Accents affects  speech recognition, to my notice, which explains why some grammar keywords in the program were spelt unconventionally, to accommodate
+* Accents affects  speech recognition, to my notice, which explains why some grammar keywords in the program were spelt unconventionally, to accommodate
 most users. you can say instructions while program is listening, for detailed information or better still, read the grammar builder code in the program to see what i mean.
