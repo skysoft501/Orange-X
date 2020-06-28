@@ -1,7 +1,7 @@
 # Orange-X
 orange-x is a copier/backup/restore utility program written in powershell. Unlike orange, its predecessor which I wrote previously, orange-x is written to be used entirely without the keyboard. It implements Microsoft Speech Recognition Engine and System.Speech.Synthesis.SpeechSynthesizer API to run commands. You can backup/restore all kinds of files and media files from your PC to an external storage device and vice versa, simply by speaking to orange-x : a feature that can be of help to the physically challenged simply by issuing vocal commands.
 
-# Execution & Observation
+# *Execution & Observation*
 
 * Before program launch, orange-x scans your computer for an external storage peripheral before initialization. Program launches when a storage device is detected. 
 
