@@ -17,3 +17,8 @@ orange-x is a copier/backup/restore utility program written in powershell. Unlik
 
 * Accents affects  speech recognition, to my notice, which explains why some grammar keywords in the program were spelt unconventionally, to accommodate
 most users. you can say instructions while program is listening, for detailed information or better still, read the grammar builder code in the program to see what i mean.
+
+# *Compatibility*
+
+The get-volume cmdlet debut in powershell 4, and amount other cmdlets,
+it means this utility will work best on Windows 8, 8.1 and 10
