@@ -24,5 +24,5 @@ The get-volume cmdlet debut in powershell 4, and amoung other cmdlets,
 it means this utility will work best on Windows 8, 8.1 and 10.
 For lesser OS, simply upgrading Powershell will suffice. 
  
-*side note* --- script compiled (32&64bit) in exec folder. 
+### *side note* --- script compiled (32&64bit) in exec folder. 
 
