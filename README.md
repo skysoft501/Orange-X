@@ -1,5 +1,5 @@
 # Orange-X
-### Orange-X is covered by the GNU-Public License. Kindly go through the Licence file in root directory.
+### Orange-X is covered by the GNU-Public License. Kindly go through the License file in root directory.
 orange-x is an intelligent | Smart copier/backup/restore utility program written in powershell. Unlike orange, its predecessor which I wrote previously, orange-x is written to be used entirely without the keyboard. It implements Microsoft Speech Recognition Engine and System.Speech.Synthesis.SpeechSynthesizer API to run commands. You can backup/restore all kinds of files and media files from your PC to an external storage device and vice versa, simply by speaking to orange-x : a feature that can be of help to the physically challenged simply by issuing vocal commands.
 
 # *Execution & Observation*
